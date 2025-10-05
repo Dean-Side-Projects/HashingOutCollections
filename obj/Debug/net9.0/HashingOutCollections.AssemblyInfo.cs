@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashingOutCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+975037df35d327e599b92537e4fb881f73104989")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e45381f6438da388e9752099782156e3c1a1e62")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashingOutCollections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashingOutCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
