@@ -1,0 +1,15 @@
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\bin\Debug\net9.0\HashingOutCollections.exe
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\bin\Debug\net9.0\HashingOutCollections.deps.json
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\bin\Debug\net9.0\HashingOutCollections.runtimeconfig.json
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\bin\Debug\net9.0\HashingOutCollections.dll
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\bin\Debug\net9.0\HashingOutCollections.pdb
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.AssemblyInfoInputs.cache
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.AssemblyInfo.cs
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.csproj.CoreCompileInputs.cache
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.sourcelink.json
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.dll
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\refint\HashingOutCollections.dll
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.pdb
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\HashingOutCollections.genruntimeconfig.cache
+C:\Users\deang\OneDrive\Documents\GitHub\HashingOutCollections\obj\Debug\net9.0\ref\HashingOutCollections.dll
